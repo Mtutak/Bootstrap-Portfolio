@@ -1,0 +1,34 @@
+.intro-content {
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; */
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+
+.navbar-expanded {
+	background-color: black !important;
+}
+
+
+.navbar-brand {
+	padding: 10px 5px 0px 10px;
+}
+
+.img-responsive {
+	max-width: 250px;
+	margin:25px auto 0px auto;
+
+}
+
+ol.connect li{
+	display:inline-block;
+}
+
+a {
+	text-decoration: none;
+	color:#777777;
+}
+
+.footer {
+	background-color: #41c4ab !important;
+}
